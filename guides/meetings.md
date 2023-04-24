@@ -103,6 +103,8 @@ Voting members
 - Insert voting members  
 
 Guests  
+- Insert guests  
+
 Members not in attendance  
 - Insert members not in attendance  
 
