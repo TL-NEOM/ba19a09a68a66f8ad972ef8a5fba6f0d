@@ -154,7 +154,10 @@ A motion to approve the minutes of the previous \[date\] meeting was made by \[n
 #### ‍Check all that apply.
 - [x] :smile: Update
 - [x] :black_square_button: Discussion
-- [x] Decision
+- [x] ![Smile](https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8) Decision
+
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8" width="10" height="10" />
+
 ### Goal
 ‍‍Write the meeting goal here. (E.g. Discuss agency performance and decide whether to renew for another year.)
 ### Agenda
