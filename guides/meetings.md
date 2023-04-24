@@ -1,5 +1,20 @@
-# Meeting Templates
+# Table of Contents
+1. [MEETING MINUTE SAMPLES](#meeting-minute-samples)
+	1. [Formal Meeting Minutes Sample](#formal-meeting-minutes-sample)
+	1. [Informal / Simple Meeting Minutes Sample](#informal--simple-meeting-minutes-sample)
+2. [TEMPLATES - AGENDA & MINUTES](#templates---agenda--minutes)
+	1. [Formal Meeting Minutes](#formal-meeting-minutes)
+	1. [Informal Meeting Minutes](#informal-meeting-minutes)
+	1. [Simple Meeting Minutes](#simple-meeting-minutes)
+	1. [All-Hands Meeting](#all-hands-meeting)
+	1. [Team Meeting](#team-meeting)
+	1. [Weekly Meeting](#weekly-meeting)
+	1. [Senior Leadership Team Meeting](#senior-leadership-team-meeting)
+	1. [Board Meeting](#board-meeting)
 
+***
+
+# MEETING MINUTE SAMPLES
 ## Formal Meeting Minutes Sample
 ### ACME Corp.
 ### MINUTES OF A MEETING OF THE BOARD OF DIRECTORS
@@ -40,6 +55,8 @@ A motion to approve the previous meeting minutes from August 5th was made by Lar
 ### Adjournment
 ‍There being no further business to come before the meeting, the meeting was adjourned at 2:45 p.m.
 
+^[TOC](#table-of-contents)  
+
 --------------------
 
 ## Informal / Simple Meeting Minutes Sample
@@ -71,207 +88,222 @@ Strategy must be ready to deploy by Q4 2023.
 - @Rob summarize and distribute CS team feedback on current measurement strategies by June 7th.
 - @Christina check in on the status of current CS data sources by June 8th.
 
+^[TOC](#table-of-contents)  
+
 --------------------
 
-## TEMPLATES - AGENDA & MINUTES
-Formal Meeting Minutes
-Call to Order
+# TEMPLATES - AGENDA & MINUTES  
+
+## Formal Meeting Minutes  
+### Call to Order  
 A [meeting type] meeting of [organization name] was held on [date] at [location]. It began at [time] and was presided over by [chairperson’s name], with [secretary’s name] as secretary.
-Attendance 
-Voting members
-	• 
-Guests
-	• 
-Members not in attendance
-	• 
-Approval of minutes
-A motion to approve the minutes of the previous [date] meeting was made by [name] and seconded by [name].
-Officer’s Reports
-	• 
-Other Reports
-	• 
-Main Motions
-	• Motion by [name] and seconded by [name] that [state the motion here]. The motion [carried or failed] with [#] in favor and [#] against.
-Announcements
-	• 
-Adjournment
-	• 
+### Attendance 
+Voting members  
+-  
+Guests  
+-  
+Members not in attendance  
+-  
+### Approval of minutes
+A motion to approve the minutes of the previous [date] meeting was made by [name] and seconded by [name].  
+### Officer’s Reports
+-   
+### Other Reports  
+-   
+### Main Motions  
+- Motion by [name] and seconded by [name] that [state the motion here]. The motion [carried or failed] with [#] in favor and [#] against.
+### Announcements
+-   
+### Adjournment
+-   
+
+^[TOC](#table-of-contents)  
 
 --------------------
 
 ## Informal Meeting Minutes
-Attendance
-Present
-	• 
-Absent
-	• 
-Discussion Topics
-	•  
-Decisions / Motions
+### Attendance
+### Present
+-   
+### Absent
+-   
+### Discussion Topics
+-   
+### Decisions / Motions
+-   
+### Action Items
+-   
+### Announcements
+-   
 
-Action Items
-
-Announcements
-	•  
+^[TOC](#table-of-contents)  
 
 --------------------
 
 ## Simple Meeting Minutes
-Meeting type
-‍Check all that apply.
-	• Update
-	• Discussion
-	• Decision
-Goal
+### Meeting type
+### ‍Check all that apply.
+- Update
+- Discussion
+- Decision
+### Goal
 ‍‍Write the meeting goal here. (E.g. Discuss agency performance and decide whether to renew for another year.)
-Agenda
-	• Item one
-	• Item two
-	• Item three
-Next Steps
-	• @name task by Due-Date
+### Agenda
+- Item one
+- Item two
+- Item three
+### Next Steps
+- @name task by Due-Date
+
+^[TOC](#table-of-contents)  
 
 --------------------
 
 ## All-Hands Meeting
-Company Vision
-	• Start every all hands by reiterating the company vision — where we are at, what we believe, and where we are going.
-Key Metrics
-	• Look at high-level metrics and explain what they mean in the context of the business and the broader market in general.
-Customer/employee updates
-	• Invite leads from teams/departments to provide brief updates. Focus on high-level ideas and customer anecdotes.
-	• Make an effort to include new learnings — what has gone well, what hasn’t, and how that changes things.
-Deep dive (Important topics & large-scale changes)
-	• Optional agenda item for occasionally drilling deep into something that is happening at the company. Examples include changes in strategy, positioning, and hiring/restructuring.
-AMA (Ask me anything)
-	• Leave time at the end of the meeting to answer employee questions.
-Appreciation reward
-	• Many companies like to honor teams or individuals during their All Hands. Often these awards are peer-nominated and do not come from the executive team.
+### Company Vision
+- Start every all hands by reiterating the company vision — where we are at, what we believe, and where we are going.
+### Key Metrics
+- Look at high-level metrics and explain what they mean in the context of the business and the broader market in general.
+### Customer/employee updates
+- Invite leads from teams/departments to provide brief updates. Focus on high-level ideas and customer anecdotes.
+- Make an effort to include new learnings — what has gone well, what hasn’t, and how that changes things.
+### Deep dive (Important topics & large-scale changes)
+- Optional agenda item for occasionally drilling deep into something that is happening at the company. Examples include changes in strategy, positioning, and hiring/restructuring.
+### AMA (Ask me anything)
+- Leave time at the end of the meeting to answer employee questions.
+### Appreciation reward
+- Many companies like to honor teams or individuals during their All Hands. Often these awards are peer-nominated and do not come from the executive team.
+
+^[TOC](#table-of-contents)  
 
 --------------------
 
 ## Team Meeting
-Agenda
-Celebrate wins
-	• ‍
-‍
-Data to review
-	• ‍
-‍
-Updates Roundtable
-	1. Name
-	2. Name
-	3. Name
-‍
-Discussion Topics
-	• ‍
-‍
---
-Action Items
-	• ‍
---
+### Agenda
+### Celebrate wins
+-  
+### Data to review
+-  
+### Updates Roundtable
+1. Name
+1. Name
+1. Name
+### Discussion Topics
+-  
+### Action Items
+-  
 
 From <https://www.hugo.team/blog/meeting-minutes-with-samples-templates> 
+
+^[TOC](#table-of-contents)  
 
 --------------------
 
 ## Weekly Meeting
-Team Review
+### Team Review
 Share updates on overall progress, key metrics, and anecdotes to give your team an up-to-date understanding of current initiatives.‍
-Individual Updates
+### Individual Updates
 Allow each team member to briefly share what they've been working on. This includes progress, obstacles, achievements, and any other information that would be valuable for the team.‍
-Positive Highlights
+### Positive Highlights
 Acknowledge big wins and milestones accomplished since the last weekly meeting. What valuable lessons were learned?‍
-Roadblocks & Concerns
+### Roadblocks & Concerns
 Have any issues or challenges come up since the last weekly meeting? Are there any particular problems a team member is stuck on? How can we help solve them?‍
-New Information
+### New Information
 Are there any new metrics, trends, customer feedback, or market influences we should be aware of? What about company announcements or industry news? Share any resources that would help the team understand these concepts better.‍
-Other Important Notes
+### Other Important Notes
 Summarize any other valuable information that was shared. It does not have to be directly related to the weekly meeting agenda.‍
-Upcoming Priorities
+### Upcoming Priorities
 What are the main priorities we should focus on for next week? How are we planning to approach these? What does success look like?‍
-Main Takeaways
+### Main Takeaways
 What were the main insights from this weekly meeting? Include key decisions made, progress reports, and any opportunities, issues, or concerns that should be shared with colleagues.‍
-Share
+### Share
 List all key stakeholders not present and other departments that this information should be shared with.‍
-Take Action
+### Take Action
 Clarify next steps for the entire team as well as each individual. Note who's completing them, and when they should be done by. You can assign these tasks from this template.
+
+^[TOC](#table-of-contents)  
 
 --------------------
 
 ## Project Check-In Meeting
-Our Objective
+### Our Objective
 Reiterate the objective of the project
-Deadlines/Milestones
+### Deadlines/Milestones
 Include in the agenda high-level milestones
-Project Update Roundtable
-	• Name
-	• Summarize 1-5 updates here in the agenda
-	• Name
-	• Summarize 1-5 updates here in the agenda
-Roadblocks & Risks
-	• Where are you blocked? How can the team help?
-Next Steps
-	• @name Task by DUE-DATE
+### Project Update Roundtable
+- Name
+	- Summarize 1-5 updates here in the agenda
+- Name
+	- Summarize 1-5 updates here in the agenda
+### Roadblocks & Risks
+- Where are you blocked? How can the team help?
+### Next Steps
+- @name Task by DUE-DATE
+
+^[TOC](#table-of-contents)  
 
 --------------------
 
 ## Senior Leadership Team Meeting
-Engine Dashboard Overview
+### Engine Dashboard Overview
 Have each functional team (sales, marketing, product, etc.) prepare and give an overview of how they're running.
-Include:
-	• Goal’s and how they're tracking
-	• Update on sub-processes
-	• Key wins, losses, opportunities, concerns
-	• What we're focused on‍‍
-‍Observations and Learnings
-	• Customer anecdotes 
-	• Feedback
-	• Other
-‍CTAs / Asks
-	• What does each functional team need from the rest of the leadership team
-	• Follow-ups and actions (all actions need a directly responsible team member and a due date)
+### Include:
+- Goal’s and how they're tracking
+- Update on sub-processes
+- Key wins, losses, opportunities, concerns
+- What we're focused on‍‍
+### ‍Observations and Learnings
+- Customer anecdotes 
+- Feedback
+- Other
+### ‍CTAs / Asks
+- What does each functional team need from the rest of the leadership team
+- Follow-ups and actions (all actions need a directly responsible team member and a due date)
+
+^[TOC](#table-of-contents)  
 
 --------------------
 
 ## Board Meeting
-‍Preparation
+### ‍Preparation
 The most important aspect of this meeting is the meeting memo. This way you don't spend half the meeting briefing one another. Here is what you need to include in every board memo: 
-	• Each team leader writes their own section, no more than 1-2 pages summarizing the state of the business. Introduction, things going well, challenges, plans for the future, update on items from last time. These sections can contain graphs and charts
-	• The CEO summarizes and provides a narrative at the beginning of the document
-	• The VP Finance attaches the financial statements and key reports
-	• The team circulates the narrative with the board ahead of time. Board members comment and ask questions as they read. The team clarifies points and provides analysis where necessary
+- Each team leader writes their own section, no more than 1-2 pages summarizing the state of the business. Introduction, things going well, challenges, plans for the future, update on items from last time. These sections can contain graphs and charts
+- The CEO summarizes and provides a narrative at the beginning of the document
+- The VP Finance attaches the financial statements and key reports
+- The team circulates the narrative with the board ahead of time. Board members comment and ask questions as they read. The team clarifies points and provides analysis where necessary
 
-Meeting Minutes
-Call to Order
-	• A [meeting type] meeting of [organization name] was held on [date] at [location]. It began at [time] and was presided over by [chairperson’s name], with [secretary’s name] as secretary
-‍Attendance
-Voting members
-	• ‍
-Guests
-	• ‍
-Members not in attendance
-	• ‍
-‍Approval of minutes
+### Meeting Minutes
+### Call to Order
+- A [meeting type] meeting of [organization name] was held on [date] at [location]. It began at [time] and was presided over by [chairperson’s name], with [secretary’s name] as secretary
+### ‍Attendance
+Voting members  
+- ‍
+Guests  
+- ‍
+Members not in attendance  
+- ‍
+### ‍Approval of minutes
 ‍A motion to approve the minutes of the previous [date] meeting was made by [name] and seconded by [name].
-Matters up for decision:
-	• Major strategic decisions
-	• Routine decisions
-Matters up for discussion: 
-	• ‍‍
-CEO report: 
-	• Current pressing issues
-	• Matters for approval
-	• Update on strategic plan implementation/rollout 
-	• Critical Key Performance Indicators 
-	• Risk and compliance update
-	• Discussion around financial statements and key reports  
-Committee minutes 
-	• Audit and risk committee
-	• Governance committee 
-Other matters for discussion
-Meeting finalization 
-	• Actions to be taken
-	• Items for public disclosure
-	• Next meeting
-Meeting close
+### Matters up for decision:
+- Major strategic decisions
+- Routine decisions
+### Matters up for discussion: 
+- ‍‍
+### CEO report: 
+- Current pressing issues
+- Matters for approval
+- Update on strategic plan implementation/rollout 
+- Critical Key Performance Indicators 
+- Risk and compliance update
+- Discussion around financial statements and key reports  
+### Committee minutes 
+- Audit and risk committee
+- Governance committee 
+### Other matters for discussion
+### Meeting finalization 
+- Actions to be taken
+- Items for public disclosure
+- Next meeting
+### Meeting close
+
+^[TOC](#table-of-contents)  
