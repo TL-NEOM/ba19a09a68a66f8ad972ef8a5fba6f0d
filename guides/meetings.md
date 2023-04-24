@@ -152,8 +152,8 @@ A motion to approve the minutes of the previous \[date\] meeting was made by \[n
 ## Simple Meeting Minutes
 ### Meeting type
 #### ‍Check all that apply.
-- [x] Update
-- [x] Discussion
+- [x] :smile: Update
+- [x] :black_square_button: Discussion
 - [x] Decision
 ### Goal
 ‍‍Write the meeting goal here. (E.g. Discuss agency performance and decide whether to renew for another year.)
