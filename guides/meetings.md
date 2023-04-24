@@ -101,6 +101,7 @@ A \[meeting type\] meeting of \[organization name\] was held on \[date\] at \[lo
 ### Attendance  
 Voting members  
 - Insert voting members  
+
 Guests  
 Members not in attendance  
 - Insert members not in attendance  
