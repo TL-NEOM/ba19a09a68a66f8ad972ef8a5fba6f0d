@@ -96,7 +96,7 @@ Strategy must be ready to deploy by Q4 2023.
 
 ## Formal Meeting Minutes  
 ### Call to Order  
-A [meeting type] meeting of [organization name] was held on [date] at [location]. It began at [time] and was presided over by [chairperson’s name], with [secretary’s name] as secretary.  
+A \[meeting type\] meeting of \[organization name\] was held on \[date\] at \[location\]. It began at \[time\] and was presided over by \[chairperson’s name\], with \[secretary’s name\] as secretary.  
 
 ### Attendance  
 Voting members  
@@ -107,7 +107,7 @@ Members not in attendance
 -  
 
 ### Approval of minutes
-A motion to approve the minutes of the previous [date] meeting was made by [name] and seconded by [name].  
+A motion to approve the minutes of the previous \[date\] meeting was made by \[name\] and seconded by \[name\].  
 
 ### Officer’s Reports
 -   
@@ -116,7 +116,7 @@ A motion to approve the minutes of the previous [date] meeting was made by [name
 -   
 
 ### Main Motions  
-- Motion by [name] and seconded by [name] that [state the motion here]. The motion [carried or failed] with [#] in favor and [#] against.
+- Motion by \[name\] and seconded by \[name\] that \[state the motion here\]. The motion \[carried or failed\] with \[#\] in favor and \[#\] against.
 
 ### Announcements
 -   
