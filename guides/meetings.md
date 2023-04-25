@@ -1,16 +1,191 @@
 # Table of Contents
 1. [MEETING MINUTE SAMPLES](#meeting-minute-samples)
-	1. [Formal Meeting Minutes Sample](#formal-meeting-minutes-sample)
-	1. [Informal / Simple Meeting Minutes Sample](#informal--simple-meeting-minutes-sample)
-2. [TEMPLATES - AGENDA & MINUTES](#templates---agenda--minutes)
-	1. [Formal Meeting Minutes](#formal-meeting-minutes)
-	1. [Informal Meeting Minutes](#informal-meeting-minutes)
-	1. [Simple Meeting Minutes](#simple-meeting-minutes)
-	1. [All-Hands Meeting](#all-hands-meeting)
-	1. [Team Meeting](#team-meeting)
-	1. [Weekly Meeting](#weekly-meeting)
-	1. [Senior Leadership Team Meeting](#senior-leadership-team-meeting)
-	1. [Board Meeting](#board-meeting)
+    1. [Template](#template)
+    1. [Example](#example)
+2. [MEETING MINUTE SAMPLES](#meeting-minute-samples)
+    1. [Formal Meeting Minutes Sample](#formal-meeting-minutes-sample)
+    1. [Informal / Simple Meeting Minutes Sample](#informal--simple-meeting-minutes-sample)
+3. [TEMPLATES - AGENDA & MINUTES](#templates---agenda--minutes)
+    1. [Formal Meeting Minutes](#formal-meeting-minutes)
+    1. [Informal Meeting Minutes](#informal-meeting-minutes)
+    1. [Simple Meeting Minutes](#simple-meeting-minutes)
+    1. [All-Hands Meeting](#all-hands-meeting)
+    1. [Team Meeting](#team-meeting)
+    1. [Weekly Meeting](#weekly-meeting)
+    1. [Senior Leadership Team Meeting](#senior-leadership-team-meeting)
+    1. [Board Meeting](#board-meeting)
+
+***
+
+# Meeting Agenda 
+## Template
+Here’s an outline that you can tailor to nearly any type of meeting:  
+
+### MEETING AGENDA
+| Info     | Detail     |
+| -------- | ---------- |
+| Date     |            |
+| Time     |            |
+| Duration | ## minutes |
+| Location |            |
+
+### AGENDA DETAILS
+**Goals:**  
+1. Agenda item one description  
+
+    | Info    | Detail     |
+    | ------- | ---------- |
+    | Time    | ## minutes |
+    | Purpose |            |
+    | Leader  |            |
+
+    1. Remarks  
+    2. Remarks  
+    3. Remarks  
+
+<br/>
+
+2. Agenda item two description
+
+    | Info    | Detail     |
+    | ------- | ---------- |
+    | Time    | ## minutes |
+    | Purpose |            |
+    | Leader  |            |
+
+    1. Remarks  
+    2. Remarks  
+    3. Remarks  
+
+<br/>
+
+3. Agenda item three description
+
+    | Info    | Detail     |
+    | ------- | ---------- |
+    | Time    | ## minutes |
+    | Purpose |            |
+    | Leader  |            |
+
+    1. Remarks
+        1. Additional remarks
+        2. Additional remarks
+    2. Remarks
+    3. Remarks
+
+<br/>
+
+4. Agenda item four description
+
+    | Info    | Detail     |
+    | ------- | ---------- |
+    | Time    | ## minutes |
+    | Purpose |            |
+    | Leader  |            |
+
+    1. Remarks
+    2. Remarks
+    3. Remarks
+
+<br/>
+
+5. Agenda item five description
+
+    | Info    | Detail     |
+    | ------- | ---------- |
+    | Time    | ## minutes |
+    | Purpose |            |
+    | Leader  |            |
+
+    1. Remarks  
+        1. Additional remarks  
+        2. Additional remarks  
+        3. Additional remarks  
+    2. Remarks  
+    3. Remarks  
+
+<br/>
+
+6. End of meeting review
+
+   | Info    | Detail     |
+   | ------- | ---------- |
+   | Time    | ## minutes |
+   | Purpose |            |
+   | Leader  |            |
+
+   1. What did we do well in this meeting?  
+   2. What should we do differently next meeting?  
+
+[^ TOC](#table-of-contents)  
+
+***
+
+## Example
+You can use the following sample meeting schedule when crafting your own agenda:
+
+### MEETING AGENDA
+| Info     | Detail            |
+| -------- | ----------------- |
+| Date     | Aug. 1, 2019      |
+| Time     | 13:00             |
+| Duration | 65 minutes        |
+| Location | Conference Room A |
+
+### AGENDA DETAILS
+**Goals:** Review the marketing campaigns from last year, identify seasonal slumps in product demand, brainstorm ways to increase demand during these slumps and make sure we’re prepared for the next marketing campaign.
+
+1. Review marketing campaigns from last year.
+   | Info    | Detail            |
+   | ------- | ----------------- |
+   | Time    | 15 minutes        |
+   | Purpose | Share information |
+   | Leader  | Jamal Adams       |
+
+    1. Present the marketing campaigns from last year.
+    2. Review the sales numbers after each campaign.
+    3. Identify which campaigns seemed to have the biggest impact.
+
+<br/>
+
+2. How do we best manage the fluctuating demand for our product?
+   | Info    | Detail        |
+   | ------- | ------------- |
+   | Time    | 30 minutes    |
+   | Purpose | Decision      |
+   | Leader  | Blair Hanline |
+    1. Review sales numbers from the last four quarters.
+    2. Identify any trends in sales numbers.
+    3. Brainstorm ideas on how to increase sales during those slumps.
+
+<br/>
+
+3. Preparing for the next marketing campaign
+   | Info    | Detail        |
+   | ------- | ------------- |
+   | Time    | 15 minutes    |
+   | Purpose | Decision      |
+   | Leader  | Blair Hanline |
+
+    1. What do we need to prepare for the next marketing campaign?
+        1. Review the attached marketing campaign materials.
+        2. Identify tasks for each team member.
+    2. How will we track the effectiveness of this campaign?
+    3. Review sales goals for this campaign.
+
+<br/>
+
+4. End of meeting review
+   | Info    | Detail      |
+   | ------- | ----------- |
+   | Time    | 5 minutes   |
+   | Purpose | Decision    |
+   | Leader  | Jamal Adams |
+    1. What did we do well in this meeting?
+    2. What should we do differently next meeting?
+
+
+[^ TOC](#table-of-contents)  
 
 ***
 
@@ -55,7 +230,7 @@ A motion to approve the previous meeting minutes from August 5th was made by Lar
 ### Adjournment
 ‍There being no further business to come before the meeting, the meeting was adjourned at 2:45 p.m.
 
-^[TOC](#table-of-contents)  
+[^ TOC](#table-of-contents)  
 
 --------------------
 
@@ -88,7 +263,7 @@ Strategy must be ready to deploy by Q4 2023.
 - @Rob summarize and distribute CS team feedback on current measurement strategies by June 7th.
 - @Christina check in on the status of current CS data sources by June 8th.
 
-^[TOC](#table-of-contents)  
+[^ TOC](#table-of-contents)  
 
 --------------------
 
@@ -126,7 +301,7 @@ A motion to approve the minutes of the previous \[date\] meeting was made by \[n
 ### Adjournment
 -   
 
-^[TOC](#table-of-contents)  
+[^ TOC](#table-of-contents)  
 
 --------------------
 
@@ -145,7 +320,7 @@ A motion to approve the minutes of the previous \[date\] meeting was made by \[n
 ### Announcements
 -   
 
-^[TOC](#table-of-contents)  
+[^ TOC](#table-of-contents)  
 
 --------------------
 
@@ -165,7 +340,7 @@ A motion to approve the minutes of the previous \[date\] meeting was made by \[n
 ### Next Steps
 - @name task by Due-Date
 
-^[TOC](#table-of-contents)  
+[^ TOC](#table-of-contents)  
 
 --------------------
 
@@ -184,7 +359,7 @@ A motion to approve the minutes of the previous \[date\] meeting was made by \[n
 ### Appreciation reward
 - Many companies like to honor teams or individuals during their All Hands. Often these awards are peer-nominated and do not come from the executive team.
 
-^[TOC](#table-of-contents)  
+[^ TOC](#table-of-contents)  
 
 --------------------
 
@@ -205,7 +380,7 @@ A motion to approve the minutes of the previous \[date\] meeting was made by \[n
 
 From <https://www.hugo.team/blog/meeting-minutes-with-samples-templates> 
 
-^[TOC](#table-of-contents)  
+[^ TOC](#table-of-contents)  
 
 --------------------
 
@@ -231,7 +406,7 @@ List all key stakeholders not present and other departments that this informatio
 ### Take Action
 Clarify next steps for the entire team as well as each individual. Note who's completing them, and when they should be done by. You can assign these tasks from this template.
 
-^[TOC](#table-of-contents)  
+[^ TOC](#table-of-contents)  
 
 --------------------
 
@@ -242,15 +417,15 @@ Reiterate the objective of the project
 Include in the agenda high-level milestones
 ### Project Update Roundtable
 - Name
-	- Summarize 1-5 updates here in the agenda
+    - Summarize 1-5 updates here in the agenda
 - Name
-	- Summarize 1-5 updates here in the agenda
+    - Summarize 1-5 updates here in the agenda
 ### Roadblocks & Risks
 - Where are you blocked? How can the team help?
 ### Next Steps
 - @name Task by DUE-DATE
 
-^[TOC](#table-of-contents)  
+[^ TOC](#table-of-contents)  
 
 --------------------
 
@@ -270,7 +445,7 @@ Have each functional team (sales, marketing, product, etc.) prepare and give an 
 - What does each functional team need from the rest of the leadership team
 - Follow-ups and actions (all actions need a directly responsible team member and a due date)
 
-^[TOC](#table-of-contents)  
+[^ TOC](#table-of-contents)  
 
 --------------------
 
@@ -316,4 +491,4 @@ Members not in attendance
 - Next meeting
 ### Meeting close
 
-^[TOC](#table-of-contents)  
+[^ TOC](#table-of-contents)  
