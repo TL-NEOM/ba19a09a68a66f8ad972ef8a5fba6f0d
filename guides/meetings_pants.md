@@ -25,7 +25,7 @@ _**Remember:** you need both a purpose and objectives to have an effective meeti
 ## Meeting with **PURPOSE** = less meetings!
 
 The **"secret sauce"**?  
-- **No agenda? = NO MEETING!**  
+- **No agenda/purpose? = NO MEETING!**  
 - **No objective? = NO MEETING!**  
 - It's okay to cancel recurring meetings when they no longer serve a purpose (excluding 1:1s)  
 
