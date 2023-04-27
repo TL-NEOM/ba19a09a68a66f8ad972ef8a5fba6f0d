@@ -1,5 +1,5 @@
 # Table of Contents
-1. [MEETING MINUTE SAMPLES](#meeting-minute-samples)
+1. [MEETING AGENDA](#meeting-agenda)
     1. [Template](#template)
     1. [Example](#example)
 2. [MEETING MINUTE SAMPLES](#meeting-minute-samples)
