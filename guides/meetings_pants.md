@@ -51,8 +51,8 @@ The **"secret sauce"**?
 
 ***
 
-## Most meetings fit into 6 categories:
-| Category               | Meeting Value   | Cut-Manage-Prioritize \* | Meeting Alternative                        |
+## Most meetings fit into 6 categories / purpose
+| Category / Purpose     | Meeting Value   | Cut-Manage-Prioritize \* | Meeting Alternative                        |
 | ---------------------- | --------------- |:------------------------:| ------------------------------------------ |
 | 1. Status updates      | Pointless       | Cut                      | - Dashboards<br/>- MS Planner<br/>- Trello |
 | 2. Information sharing | Pointless       | Cut                      | - Confluence<br/>- Slack<br/>- SharePoint  |
@@ -64,8 +64,8 @@ The **"secret sauce"**?
 \* To respect and value attendees' time.  
 _**NB:** see below for expanded [category list](#meeting-purposecategory-list)_
 
-## Meeting Purpose/Category List
-| Category                                                            | Major Category | Meeting Value          | Cut-Manage-Prioritize \* | Meeting Alternative                        |
+## Meeting Category / Purpose List
+| Category / Purpose                                                  | Major Category | Meeting Value          | Cut-Manage-Prioritize \* | Meeting Alternative                        |
 | ------------------------------------------------------------------- |:--------------:| ---------------------- |:------------------------:| ------------------------------------------ |
 | Brainstorming, Ideation and Innovation                              | &#10003;       | Useful                 | Prioritize               | - MS Whiteboard<br/>- Miro                 |
 | Change Management                                                   |                | Useful                 | Prioritize               |                                            |
