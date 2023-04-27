@@ -45,9 +45,9 @@ _**OR**_
 ## Meeting with **PURPOSE** = less meetings!
 
 The **"secret sauce"**?  
-- **No agenda/purpose? = NO MEETING!**  
-- **No objective? = NO MEETING!**  
-- It's okay to cancel recurring meetings when they no longer serve a purpose (excluding 1:1s)  
+- **<span style="color:red;">NO Agenda/Purpose?</span> = <span style="color:red;">&#10007; NO MEETING!</span>**  
+- **<span style="color:red;">NO Objective?</span> = <span style="color:red;">&#10007; NO MEETING!</span>**  
+- <span style="color:green;">It's okay to cancel recurring meetings when they no longer serve a purpose (excluding 1:1s)</span>   
 
 ***
 
