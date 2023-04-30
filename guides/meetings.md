@@ -192,3 +192,14 @@ _**NB:** see below for expanded [category list](#meeting-purposecategory-list)_
 | Team Building<br/>(_Encourage Enthusiasm and Improved Performance_) | &#10003;       | Useful                 | Prioritize               |                                            |
 
 \* To respect and value attendees' time.
+
+***
+
+# Ideal Meeting Lengths and Attendees
+
+Meeting Type | Length | Attendees | Why?
+:------------:|:------:|:---------:| ----
+Update | 18 min | 2-10 | - Research on attention spans shows that when acting as an audience, most people can pay passive attention for only 10 to 18 minutes. <br/> - Most meetings spent on updates go on far too long; a clear, concise meeting to align the team can be helpful as long as it is short.
+Decision | 52 min | 2-6 | - Too many participants results in conflicting input, making it harder to make progress and reach a decision. Limit these meetings to six people. <br/> - Also, studies show that 52 minutes is the ideal maximum duration for focused work, meaning that meetings over an hour have diminishing returns.
+Brainstorm | 52 min | 4-12 | • Unlike decision-making, brainstorming benefits from having more and diverse points of view. For these meetings, tap into the collective creativity of a slightly larger group than the decision-making group.
+Rally the troops | 110 min | 2-2,000+ | - A typical film’s runtime is 110 minutes. For an all-hands or other major meeting, this is the longest you will want to stretch your audience’s attention. <br/> - Note that if you’re going to hold a meeting with the runtime of a movie, think about the pacing of your meeting like a film as well. Use the following to keep everyone engaged: <br/>&nbsp;&nbsp;&nbsp;&nbsp; - anticipation, <br/>&nbsp;&nbsp;&nbsp;&nbsp; - excitement, and <br/>&nbsp;&nbsp;&nbsp;&nbsp; - a dramatic finale.
