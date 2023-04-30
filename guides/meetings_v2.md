@@ -33,21 +33,7 @@ Here’s an outline that you can tailor to nearly any type of meeting:
 
 <br/>
 
-2. Agenda item two description
-
-    | Info    | Detail     |
-    | ------- | ---------- |
-    | Time    | ## minutes |
-    | Purpose |            |
-    | Leader  |            |
-
-    1. Remarks  
-    2. Remarks  
-    3. Remarks  
-
-<br/>
-
-3. Agenda item three description
+2. Agenda item three description
 
     | Info    | Detail     |
     | ------- | ---------- |
@@ -61,40 +47,7 @@ Here’s an outline that you can tailor to nearly any type of meeting:
     2. Remarks
     3. Remarks
 
-<br/>
-
-4. Agenda item four description
-
-    | Info    | Detail     |
-    | ------- | ---------- |
-    | Time    | ## minutes |
-    | Purpose |            |
-    | Leader  |            |
-
-    1. Remarks
-    2. Remarks
-    3. Remarks
-
-<br/>
-
-5. Agenda item five description
-
-    | Info    | Detail     |
-    | ------- | ---------- |
-    | Time    | ## minutes |
-    | Purpose |            |
-    | Leader  |            |
-
-    1. Remarks  
-        1. Additional remarks  
-        2. Additional remarks  
-        3. Additional remarks  
-    2. Remarks  
-    3. Remarks  
-
-<br/>
-
-6. End of meeting review
+3. End of meeting review
 
    | Info    | Detail     |
    | ------- | ---------- |
