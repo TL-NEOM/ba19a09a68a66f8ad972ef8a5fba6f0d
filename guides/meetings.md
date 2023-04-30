@@ -243,3 +243,14 @@ Brainstorm | 52 min | 4-12 | • Unlike decision-making, brainstorming benefits 
 Rally the troops | 110 min | 2-2,000+ | - A typical film’s runtime is 110 minutes. For an all-hands or other major meeting, this is the longest you will want to stretch your audience’s attention. <br/> - Note that if you’re going to hold a meeting with the runtime of a movie, think about the pacing of your meeting like a film as well. Use the following to keep everyone engaged: <br/>&nbsp;&nbsp;&nbsp;&nbsp; - anticipation, <br/>&nbsp;&nbsp;&nbsp;&nbsp; - excitement, and <br/>&nbsp;&nbsp;&nbsp;&nbsp; - a dramatic finale.
 
 [^ TOC](#table-of-contents)  
+
+***
+
+# What is everyone’s role?
+
+ROLE | DESCRIPTION
+---- | -----------
+Decision maker(s) | - are the only ones with a vote and the ones with responsibility to decide as they see fit; <br/> - if they get stuck, they should jointly align on how to escalate the decision or otherwise get the process unstuck, even if this means agreeing to “disagree and commit.”
+Advisers | - give input and shape the decision. <br/> -  They have an outsize voice in setting the context of the decision and a big stake in its outcome - for example, the decision might affect their profit-and-loss statement. <br/> -  But they don’t have a vote on the decision.
+Recommenders | - conduct the analyses, <br/> - explore the alternatives, <br/> - illuminate the pros and cons, and <br/> - ultimately recommend a course of action to the advisers and decision makers. <br/> - They see the day-to-day implications of the decision, but they also have no vote. <br/> - In general, the more recommenders the better in the process—but not in the decision meeting itself, as noted in the exhibit.
+Execution partners | - don’t give input so much as get deeply involved in implementing the decision, and therefore they must be informed. <br/> - For speed and clarity, you will need the right ones in the room when the decision is made so they can ask clarifying questions and spot flaws that might hinder implementation. <br/> - Notably, the number of execution partners doesn’t necessarily depend on the importance of the decision. <br/> - An M&A decision, for example, might have just two execution partners: <br/>&nbsp;&nbsp;&nbsp;&nbsp; - the CFO and <br/>&nbsp;&nbsp;&nbsp;&nbsp; - a business-unit head.
