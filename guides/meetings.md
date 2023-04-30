@@ -17,7 +17,7 @@ Or
 
 Or
 
-> Take meeting notes in Teams - Microsoft Support
+> [Take meeting notes in Teams - Microsoft Support](https://support.microsoft.com/en-us/office/take-meeting-notes-in-teams-3eadf032-0ef8-4d60-9e21-0691d317d103)
 
 ***
 
