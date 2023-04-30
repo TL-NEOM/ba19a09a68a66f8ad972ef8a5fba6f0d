@@ -1,22 +1,22 @@
 # The P.A.N.T.S Test
 
-### &EmptySmallSquare; Purpose  
+### &EmptySmallSquare; <u>P</u>urpose  
 - Is it clear what must be accomplished for the meeting to be a success?  
 - Is the purpose of the meeting in the calendar invite?  
 
-### &EmptySmallSquare; Agenda  
+### &EmptySmallSquare; <u>A</u>genda  
 - Is the agenda (or a link to the agenda) in the calendar invite?  
 
-### &EmptySmallSquare; Notes  
+### &EmptySmallSquare; <u>N</u>otes  
 - Have you created your notes by filling in your agenda with additional information?  
 - Are all decisions noted and highlighted or underlined?  
 - If you have a new document for notes, is it shared or linked in the calendar invite?  
 
-### &EmptySmallSquare; Tasks  
+### &EmptySmallSquare; <u>T</u>asks  
 - Are all next steps listed at the bottom of your notes?  
 - Are all tasks assigned to a DRI (directly responsible individual)?  
 
-### &EmptySmallSquare; Shared  
+### &EmptySmallSquare; <u>S</u>hared  
 - Have you shared your notes with all attendees?  
 - Have you shared your notes with others in your organization who can benefit (via email, Slack, etc.)?  
 
@@ -53,3 +53,43 @@ _**OR**_
 > **Meeting Goal (Purpose and Objective combined):**  _Interview for the open account manager position, narrowing down list of qualified candidates to top three (3) for second interview._
 
 ***
+
+## Meeting with **PURPOSE** = less meetings!
+
+The **"secret sauce"**?  
+- **<span style="color:red;">NO Agenda/Purpose?</span> = <span style="color:red;">&#10007; NO MEETING!</span>**  
+- **<span style="color:red;">NO Objective?</span> = <span style="color:red;">&#10007; NO MEETING!</span>**  
+- <span style="color:green;">It's okay to cancel recurring meetings when they no longer serve a purpose (excluding 1:1s)</span>   
+
+***
+
+## Most meetings fit into 6 categories / purpose
+| Category / Purpose     | Meeting Value   | Cut-Manage-Prioritize \* | Meeting Alternative                        |
+| ---------------------- | --------------- |:------------------------:| ------------------------------------------ |
+| 1. Status updates      | Pointless       | Cut                      | - Dashboards<br/>- MS Planner<br/>- Trello |
+| 2. Information sharing | Pointless       | Cut                      | - Confluence<br/>- Slack<br/>- SharePoint  |
+| 3. Decision making     | Often necessary | Manage                   |                                            |
+| 4. Problem solving     | Often necessary | Manage                   |                                            |
+| 5. Innovation          | Useful          | Prioritize               | - MS Whiteboard<br/>- Miro                 |
+| 6. Team building       | Useful          | Prioritize               |                                            |
+
+\* To respect and value attendees' time.  
+_**NB:** see below for expanded [category list](#meeting-purposecategory-list)_
+
+## Meeting Category / Purpose List
+| Category / Purpose                                                  | Major Category | Meeting Value          | Cut-Manage-Prioritize \* | Meeting Alternative                        |
+| ------------------------------------------------------------------- |:--------------:| ---------------------- |:------------------------:| ------------------------------------------ |
+| Brainstorming, Ideation and Innovation                              | &#10003;       | Useful                 | Prioritize               | - MS Whiteboard<br/>- Miro                 |
+| Change Management                                                   |                | Useful                 | Prioritize               |                                            |
+| Decision Making                                                     | &#10003;       | Often Necessary        | Manage                   |                                            |
+| Introductions                                                       |                | Often Necessary        | Manage                   | - All Hands<br/>- Emails                   |
+| Kick-off - Project/Team (Align vision and goals)                    |                | Often Necessary        | Manage                   |                                            |
+| Learning-Training Session                                           |                | Useful                 | Prioritize               |                                            |
+| Measure Results / Performance Reviews                               |                | Useful                 | Prioritize               |                                            |
+| Problem Solving / Discussion                                        | &#10003;       | Often Necessary        | Manage                   |                                            |
+| Project Evaluation and Next Steps                                   |                | Often Necessary        | Manage                   |                                            |
+| Share Information                                                   | &#10003;       | Pointless              | Cut                      | - Confluence<br/>- Slack<br/>- SharePoint  |
+| Status Updates                                                      | &#10003;       | Pointless              | Cut                      | - Dashboards<br/>- MS Planner<br/>- Trello |
+| Team Building<br/>(_Encourage Enthusiasm and Improved Performance_) | &#10003;       | Useful                 | Prioritize               |                                            |
+
+\* To respect and value attendees' time.
