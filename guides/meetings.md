@@ -1,3 +1,102 @@
+# Example Documents
+
+## Example Calendar Entry #1
+### Purpose:
+Decide whether to renew our PR agency contract for another year
+
+### Agenda:
+> www.putyourlinkhere.com/agenda  
+
+Or
+> - List as bullet points
+> - List as bullet points
+> - List as bullet points
+
+### Meeting Notes (including tasks/next steps):
+> www.putyourlinkhere.com/notes
+
+Or
+
+> Take meeting notes in Teams - Microsoft Support
+
+***
+
+## Example Calendar Entry #2
+- Meeting title
+- Date/time
+- Attendees
+- Location or conference call link
+- Purpose or stated goal
+- Agenda or agenda link (editable)
+- Notes or notes link (editable, all Tasks assigned)
+
+***
+
+## Example Agenda
+### Purpose:
+Decide whether to renew our PR agency contract for another year
+
+### Scribe: Allison Brown
+
+### Agenda:
+- Review agency results to date (actual versus goal)
+- Discuss pros & cons of renewing
+
+### Does this meeting have PANTS?
+- [ ] Purpose
+- [ ] Agenda
+- [ ] Notes
+- [ ] Tasks
+- [ ] Shared
+
+***
+
+## Example Meeting Notes
+### Purpose
+Decide whether to renew our PR agency contract for another year
+
+### Scribe: Allison Brown
+
+### Agenda:
+- Review agency results to date (actual vs. goal)
+    - Media mentions = 29 (Goal was 50)
+    - Tier 1 article placements = 1 (Goal was 5)
+- Discuss pros & cons of renewing
+    - **Pros**
+        -  The work really hard even if the results are lackluster
+        -  They already know our company, value prop, etc
+    - **Cons**
+        -  Results, even if improved, are unlikely to change substantially
+        -  Agency has large proportion of junior members
+        -  We often have to follow up repeatedly to make sure work gets done
+- **Decision:**
+    - Renew for 1 month to finish current initiatives (Darren)
+    - Ask network for PR agency referrals for new agency (Rob & Darren)
+
+***
+
+# Meeting Cheat Sheet
+
+Core Values
+  1. Meeting scarcity over meeting abundance.
+  2. Thoughtful scheduling over broad invitations.
+  3. Active discussion over mind-numbing presentation.
+  4. Freely sharing over knowledge silos.
+
+Scheduling Meetings
+- Invite fewer people whenever possible
+- Build meeting clusters by scheduling meetings near other meetings
+- Avoid marathon meetings (1 hour max)
+
+Conducting Meetings
+- Active discussion > passive presentation
+- If you shouldn’t be there, leave the meeting
+- Every task gets a DRI (directly responsible individual)
+- Follow up by sharing notes within 24 hours
+- No distracting technology used for non-meeting activities (phones, laptops, etc.)
+
+***
+
 # The P.A.N.T.S Test
 
 ### &EmptySmallSquare; <u>P</u>urpose  
