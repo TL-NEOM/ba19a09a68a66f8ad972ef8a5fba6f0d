@@ -1,12 +1,15 @@
 # Table of Contents
 1. [MEETING AGENDA](#meeting-agenda)
-    1. [Template](#template-agenda)
-    1. [Example](#example-agenda)
+    1. [Template](#template---agenda)
+    1. [Example](#example---agenda)
+1. [MEETING NOTES](#meeting-notes)
+    1. [Template](#template---notes)
+    1. [Example](#example---notes)
 
     ***
 
 # Meeting Agenda 
-## Template Agenda
+## Template - Agenda
 Here’s an outline that you can tailor to nearly any type of meeting:  
 
 ### MEETING AGENDA
