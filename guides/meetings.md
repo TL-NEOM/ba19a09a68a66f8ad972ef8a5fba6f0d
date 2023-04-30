@@ -1,4 +1,20 @@
-# Example Documents
+# Table of Contents
+1. [Meeting Examples](#meeting-examples)
+    1. [Example Calendar Entry #1](#example-calendar-entry-1)
+    1. [Example Calendar Entry #2](#example-calendar-entry-2)
+    1. [Example Agenda](#example-agenda)
+    1. [Example Meeting Notes](#example-meeting-notes)
+1. [Meeting Cheat Sheet](#meeting-cheat-sheet)
+1. [The P.A.N.T.S Test](#the-pants-test)
+1. [Meetings need a **PURPOSE** and an **OBJECTIVE**](#meetings-need-a-purpose-and-an-objective)
+1. [Meeting with PURPOSE = less meetings!](#meeting-with-purpose--less-meetings)
+1. [Most meetings fit into 6 categories / purpose](#most-meetings-fit-into-6-categories--purpose)
+1. [Meeting Category / Purpose List](#meeting-category--purpose-list)
+1. [Ideal Meeting Lengths and Attendees](#ideal-meeting-lengths-and-attendees)
+
+***
+
+# Meeting Examples
 
 ## Example Calendar Entry #1
 ### Purpose:
@@ -19,6 +35,8 @@ Or
 
 > [Take meeting notes in Teams - Microsoft Support](https://support.microsoft.com/en-us/office/take-meeting-notes-in-teams-3eadf032-0ef8-4d60-9e21-0691d317d103)
 
+[^ TOC](#table-of-contents)  
+
 ***
 
 ## Example Calendar Entry #2
@@ -29,6 +47,8 @@ Or
 - Purpose or stated goal
 - Agenda or agenda link (editable)
 - Notes or notes link (editable, all Tasks assigned)
+
+[^ TOC](#table-of-contents)  
 
 ***
 
@@ -48,6 +68,8 @@ Decide whether to renew our PR agency contract for another year
 - [ ] Notes
 - [ ] Tasks
 - [ ] Shared
+
+[^ TOC](#table-of-contents)  
 
 ***
 
@@ -73,6 +95,8 @@ Decide whether to renew our PR agency contract for another year
     - Renew for 1 month to finish current initiatives (Darren)
     - Ask network for PR agency referrals for new agency (Rob & Darren)
 
+[^ TOC](#table-of-contents)  
+
 ***
 
 # Meeting Cheat Sheet
@@ -94,6 +118,8 @@ Conducting Meetings
 - Every task gets a DRI (directly responsible individual)
 - Follow up by sharing notes within 24 hours
 - No distracting technology used for non-meeting activities (phones, laptops, etc.)
+
+[^ TOC](#table-of-contents)  
 
 ***
 
@@ -119,9 +145,11 @@ Conducting Meetings
 - Have you shared your notes with all attendees?  
 - Have you shared your notes with others in your organization who can benefit (via email, Slack, etc.)?  
 
+[^ TOC](#table-of-contents)  
+
 ***
 
-# Meetings need a **PURPOSE** and an **OBJECTIVE**.  
+# Meetings need a **PURPOSE** and an **OBJECTIVE**  
 
 The main difference between a meeting **purpose** and a meeting **objective** is that:
 - the **Purpose** is the reason why you’re having a meeting, 
@@ -151,6 +179,8 @@ _**OR**_
 
 > **Meeting Goal (Purpose and Objective combined):**  _Interview for the open account manager position, narrowing down list of qualified candidates to top three (3) for second interview._
 
+[^ TOC](#table-of-contents)  
+
 ***
 
 ## Meeting with **PURPOSE** = less meetings!
@@ -159,6 +189,8 @@ The **"secret sauce"**?
 - **<span style="color:red;">NO Agenda/Purpose?</span> = <span style="color:red;">&#10007; NO MEETING!</span>**  
 - **<span style="color:red;">NO Objective?</span> = <span style="color:red;">&#10007; NO MEETING!</span>**  
 - <span style="color:green;">It's okay to cancel recurring meetings when they no longer serve a purpose (excluding 1:1s)</span>   
+
+[^ TOC](#table-of-contents)  
 
 ***
 
@@ -174,6 +206,10 @@ The **"secret sauce"**?
 
 \* To respect and value attendees' time.  
 _**NB:** see below for expanded [category list](#meeting-purposecategory-list)_
+
+[^ TOC](#table-of-contents)  
+
+***
 
 ## Meeting Category / Purpose List
 | Category / Purpose                                                  | Major Category | Meeting Value          | Cut-Manage-Prioritize \* | Meeting Alternative                        |
@@ -193,6 +229,8 @@ _**NB:** see below for expanded [category list](#meeting-purposecategory-list)_
 
 \* To respect and value attendees' time.
 
+[^ TOC](#table-of-contents)  
+
 ***
 
 # Ideal Meeting Lengths and Attendees
@@ -203,3 +241,5 @@ Update | 18 min | 2-10 | - Research on attention spans shows that when acting as
 Decision | 52 min | 2-6 | - Too many participants results in conflicting input, making it harder to make progress and reach a decision. Limit these meetings to six people. <br/> - Also, studies show that 52 minutes is the ideal maximum duration for focused work, meaning that meetings over an hour have diminishing returns.
 Brainstorm | 52 min | 4-12 | • Unlike decision-making, brainstorming benefits from having more and diverse points of view. For these meetings, tap into the collective creativity of a slightly larger group than the decision-making group.
 Rally the troops | 110 min | 2-2,000+ | - A typical film’s runtime is 110 minutes. For an all-hands or other major meeting, this is the longest you will want to stretch your audience’s attention. <br/> - Note that if you’re going to hold a meeting with the runtime of a movie, think about the pacing of your meeting like a film as well. Use the following to keep everyone engaged: <br/>&nbsp;&nbsp;&nbsp;&nbsp; - anticipation, <br/>&nbsp;&nbsp;&nbsp;&nbsp; - excitement, and <br/>&nbsp;&nbsp;&nbsp;&nbsp; - a dramatic finale.
+
+[^ TOC](#table-of-contents)  
