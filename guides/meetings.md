@@ -11,6 +11,8 @@
 1. [Most meetings fit into 6 categories / purpose](#most-meetings-fit-into-6-categories--purpose)
 1. [Meeting Category / Purpose List](#meeting-category--purpose-list)
 1. [Ideal Meeting Lengths and Attendees](#ideal-meeting-lengths-and-attendees)
+1. [Want a good meeting? Begin by clarifying the goal](#want-a-good-meeting-begin-by-clarifying-the-goal)
+1. [What is everyone’s role?](#what-is-everyones-role)
 
 ***
 
@@ -246,6 +248,18 @@ Rally the troops | 110 min | 2-2,000+ | - A typical film’s runtime is 110 minu
 
 ***
 
+# Want a good meeting? Begin by clarifying the goal
+
+Meeting Type | Typical Size | Typical Characteristics | Typical Outcome
+------------ | ------------ | ----------------------- | ---------------
+Decision Making | 6 to 8<br/>attendees | - Structured agenda identifies decision(s) to be made <br/> - Decision makers have been identified and are in the room <br/> - Active facilitation | Action
+Discussion Meeting | 8 to 20<br/>attendees | - Structured agenda identifies discussion topics <br/> -  Active dialogue by attendees | Consideration
+Information-sharing Meeting | 2 to 2,000+<br/>attendees | - Agenda clarifies topics for information sharing, although additional items may arise during the meeting <br/> - One-way communication from speaker | Awareness
+
+[^ TOC](#table-of-contents)  
+
+***
+
 # What is everyone’s role?
 
 ROLE | DESCRIPTION
@@ -255,13 +269,4 @@ Advisers | - give input and shape the decision. <br/> -  They have an outsize vo
 Recommenders | - conduct the analyses, <br/> - explore the alternatives, <br/> - illuminate the pros and cons, and <br/> - ultimately recommend a course of action to the advisers and decision makers. <br/> - They see the day-to-day implications of the decision, but they also have no vote. <br/> - In general, the more recommenders the better in the process—but not in the decision meeting itself, as noted in the exhibit.
 Execution partners | - don’t give input so much as get deeply involved in implementing the decision, and therefore they must be informed. <br/> - For speed and clarity, you will need the right ones in the room when the decision is made so they can ask clarifying questions and spot flaws that might hinder implementation. <br/> - Notably, the number of execution partners doesn’t necessarily depend on the importance of the decision. <br/> - An M&A decision, for example, might have just two execution partners: <br/>&nbsp;&nbsp;&nbsp;&nbsp; - the CFO and <br/>&nbsp;&nbsp;&nbsp;&nbsp; - a business-unit head.
 
-***
-
-# Want a good meeting? Begin by clarifying the goal.
-
-Meeting Type | Typical Size | Typical Characteristics | Typical Outcome
------------- | ------------ | ----------------------- | ---------------
-Decision Making | 6 to 8<br/>attendees | - Structured agenda identifies decision(s) to be made <br/> - Decision makers have been identified and are in the room <br/> - Active facilitation | Action
-Discussion Meeting | 8 to 20<br/>attendees | - Structured agenda identifies discussion topics <br/> -  Active dialogue by attendees | Consideration
-Information-sharing Meeting | 2 to 2,000+<br/>attendees | - Agenda clarifies topics for information sharing, although additional items may arise during the meeting <br/> - One-way communication from speaker | Awareness
-
+[^ TOC](#table-of-contents)  
