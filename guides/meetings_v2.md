@@ -223,6 +223,24 @@ Item # | Task | Owner | Deadline
 
 ***
 
+## Example - Notes
+
+### Attendees
+  1. Jack Sparrow
+  1. Jane Doe
+  1. John Doe
+  1. Joe Smith
+
+### Meeting Details
+Info | Detail
+---- | ------
+Date | Aug. 1, 2019
+Time | 1 p.m.
+Location | Conference Room A
+
+### Objective
+Review the marketing campaigns from last year, identify seasonal slumps in product demand, brainstorm ways to increase demand during these slumps and make sure we’re prepared for the next marketing campaign.
+
 ### AGENDA DETAILS
 **Goals:** Review the marketing campaigns from last year, identify seasonal slumps in product demand, brainstorm ways to increase demand during these slumps and make sure we’re prepared for the next marketing campaign.
 
