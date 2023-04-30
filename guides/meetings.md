@@ -62,12 +62,12 @@ Decide whether to renew our PR agency contract for another year
 - Review agency results to date (actual versus goal)
 - Discuss pros & cons of renewing
 
-### Does this meeting have PANTS?
-- [ ] Purpose
-- [ ] Agenda
-- [ ] Notes
-- [ ] Tasks
-- [ ] Shared
+### Does this meeting have P.A.N.T.S?
+- [ ] <u>**P**</u>urpose
+- [ ] <u>**A**</u>genda
+- [ ] <u>**N**</u>otes
+- [ ] <u>**T**</u>asks
+- [ ] <u>**S**</u>hared
 
 [^ TOC](#table-of-contents)  
 
