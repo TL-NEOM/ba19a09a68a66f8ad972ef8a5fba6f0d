@@ -101,18 +101,18 @@ Decide whether to renew our PR agency contract for another year
 
 # Meeting Cheat Sheet
 
-Core Values
+### Core Values
   1. Meeting scarcity over meeting abundance.
   2. Thoughtful scheduling over broad invitations.
   3. Active discussion over mind-numbing presentation.
   4. Freely sharing over knowledge silos.
 
-Scheduling Meetings
+### Scheduling Meetings
 - Invite fewer people whenever possible
 - Build meeting clusters by scheduling meetings near other meetings
 - Avoid marathon meetings (1 hour max)
 
-Conducting Meetings
+### Conducting Meetings
 - Active discussion > passive presentation
 - If you shouldn’t be there, leave the meeting
 - Every task gets a DRI (directly responsible individual)
