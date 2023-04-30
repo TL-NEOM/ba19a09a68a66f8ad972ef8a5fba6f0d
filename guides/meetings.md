@@ -1,7 +1,7 @@
 # The P.A.N.T.S Test
 
 ### &EmptySmallSquare; Purpose  
-- &EmptySmallSquare; Is it clear what must be accomplished for the meeting to be a success?  
+- [ ] Is it clear what must be accomplished for the meeting to be a success?  
 - &EmptySmallSquare; Is the purpose of the meeting in the calendar invite?  
 
 ### &EmptySmallSquare; Agenda  
