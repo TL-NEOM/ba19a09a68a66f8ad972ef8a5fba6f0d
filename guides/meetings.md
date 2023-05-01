@@ -26,9 +26,11 @@ Decide whether to renew our PR agency contract for another year
 > www.putyourlinkhere.com/agenda  
 
 Or
-> - List as bullet points
-> - List as bullet points
-> - List as bullet points
+> - [ 10mins ] - List as bullet points
+> - [ 10mins ] - List as bullet points
+> - [ 10mins ] - List as bullet points
+> - [ 10mins ] - Wrap up
+> - [ 05mins ] - Actions & Schedule next meeting
 
 ### Meeting Notes (including tasks/next steps):
 > www.putyourlinkhere.com/notes
