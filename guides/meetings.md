@@ -99,6 +99,13 @@ Decide whether to renew our PR agency contract for another year
     - Renew for 1 month to finish current initiatives (Darren)
     - Ask network for PR agency referrals for new agency (Rob & Darren)
 
+### Actions
+Item | Task | Owner | Deadline | Completed
+---- | ---- | ----- | -------- | ---------
+1 | Task 1 <br/><br/> **[2023-05-01 \| Jack ]**:<br/> Task 1 information update. | Jack | 2023-01-01 | 2023-05-01
+2 | Task 2 | Jane | ASAP |  
+3 | Task 3 | John | 2023-01-01 |  
+
 [^ TOC](#table-of-contents)  
 
 ***
